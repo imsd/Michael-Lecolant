@@ -1,0 +1,38 @@
+{
+
+ "origin" : "Welcome to ENT #classnum#: A class where you #verb# and #activity# with your Professor #prof#,
+ 
+  "classnum" : [
+    "1234",
+    "911",
+    "69",
+    "8008"
+                   ],
+  
+  "verb" : [
+    "drink heavily",
+    "try to establish communism",
+    "sit and do nothing",
+    "eat chipotle",
+    "smoke meth"
+           ],
+  
+  "activity" : [
+    "waste money on tuition",
+    "check yourself before you wreck yourself",
+    "sleep",
+    "change Columbus Day to All Your Shit Is Now Mine Day"
+            ],
+    
+  "prof" : [
+    "Bill Cosby",
+    "Harvey Weinstein",
+    "Kylie Jenner",
+    "Josef Stalin",
+    "The Zodiac Killer",
+    "Kevin Spacey",
+    "Hugh G Rection"
+              ]
+  
+
+}
